@@ -1,0 +1,31 @@
+id: P57E1008F
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG8478
+  instance_id: http://purl.bdrc.io/resource/IE1KG8478
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དབུ་མ་བཞི་བརྒྱ་པའི་ཚིག་དོན་རྣམ་པར་བཤད་པ་ཀླུ་དབང་དགོངས་རྒྱན། ༼སི་ཁྲོན་མི་རིགས་དཔེ་སྐྲུན་ཁང་།༽
+  alt_title:
+    zh-hans:
+    - 博智.中观四百颂注疏
+  author: http://purl.bdrc.io/resource/P743
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9fed6e20a943481c8652e3a1ea706854:
+      title: པོད ༡་དབུ་མ་བཞི་བརྒྱ་པའི་ཚིག་དོན་རྣམ་པར་བཤད་པ་ཀླུ་དབང་དགོངས་རྒྱན། ༼སི་ཁྲོན་མི་རིགས་དཔེ་སྐྲུན་ཁང་།༽
+      volume_number: 1
+      base_file: UT1KG8478_I1KG8517_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7433E3728BB38034
+      image_group: I1KG8517
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG8478
+  - http://purl.bdrc.io/resource/W1KG8478
+  ocr_software: Namsel
+created_at: '2021-12-22T11:00:47.393319'
+last_modified_at: '2021-12-22T11:00:47.393326'
